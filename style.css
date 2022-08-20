@@ -20,5 +20,24 @@ article {
   border-color: black;
   border-style: double;
   margin: 10px;
+  width: 30%;
   text-align: center;
+  display: inline-block;
 }
+
+aside {
+  display: inline-block;
+  width: 50%;
+  margin: 0%;
+  padding: 30px;
+  border: 3px;
+  border-color: black;
+  border-style: double;
+}
+
+body, footer {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  color: blue;
+}
+
