@@ -14,3 +14,11 @@ body {
   width: 300px;  
 }
 
+article {
+  padding: 30px;
+  border: 3px;
+  border-color: black;
+  border-style: double;
+  margin: 10px;
+  text-align: center;
+}
