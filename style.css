@@ -39,5 +39,6 @@ body, footer {
   font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color: blue;
+  line-height: 20px;
 }
 
