@@ -8,6 +8,12 @@
 ## ⚒ Instalando <a name = "installing"></a>
 
 ```bash
+# Clone o projeto
+$ git clone git@github.com:wesleymktd/project-lessons-learned.git
+# Acesse
+$ cd ./project-lessons-learned
+# Instale as dependencias
+$ npm install
 # Você pode visualizar o projeto rodando a extensão live Search do Vscode no arquivo index.html
 
 ```
