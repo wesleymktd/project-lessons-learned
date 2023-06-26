@@ -18,3 +18,6 @@ $ npm install
 $ npm start
 # O servidor vai inicar na porta <http://localhost:3000>
 ```
+## Principais tecnologias utilizadas:
+- JavaScript;
+- CSS;
